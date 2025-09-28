@@ -27,7 +27,7 @@ TaskMate 是一个功能强大、界面美观的移动端任务管理应用，�
 
 1. **克隆项目**
    ```bash
-   git clone https://github.com/yourusername/taskmate.git
+   git clone https://github.com/KevinRunzhi/TaskMate.git
    cd taskmate
    ```
 
@@ -185,8 +185,8 @@ enum Priority {
 ## 📞 联系我们
 
 - 📧 Email: your-email@example.com
-- 🐛 Issues: [GitHub Issues](https://github.com/yourusername/taskmate/issues)
-- 💬 讨论: [GitHub Discussions](https://github.com/yourusername/taskmate/discussions)
+- 🐛 Issues: [GitHub Issues](https://github.com/KevinRunzhi/TaskMate/issues)
+- 💬 讨论: [GitHub Discussions](https://github.com/KevinRunzhi/TaskMate/discussions)
 
 ---
 
